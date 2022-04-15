@@ -1,0 +1,39 @@
+/* At least 4 personalized styles
+    -Center photos?
+    -Bold headers
+    -change font of pages
+    change font size of subheader
+    -display: inline (class for images) */
+
+.post-title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: 600;
+}
+
+.post-subtext{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: smaller;
+}
+
+.post-undercontext{
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 100;
+    font-size: xx-small;
+
+}
+
+.texthead{
+    font-size: medium;
+    color: seagreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subtext{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-style: italic;
+}

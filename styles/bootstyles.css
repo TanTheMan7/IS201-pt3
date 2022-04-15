@@ -1,0 +1,44 @@
+/* This is for the tableau stuff */
+.common {
+    background-color: whitesmoke;
+    border: solid 2px black;
+    position: absolute;
+    
+}
+
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 80px;
+    border-bottom: solid 2px #555555;
+    padding-bottom: 5px;
+    background-color: rgba(161, 105, 46, 0.819);
+    line-height: 30px;
+    text-size-adjust: small;
+}
+
+
+.mainbody{
+    background-color:   rgba(161, 105, 46, 0.819);
+    border: #999;
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+
+.footer{
+    bottom: 5px;
+    height: 50px;
+    text-align: center;
+}
+
+.subtext{
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 150;
+
+}
+
+.
